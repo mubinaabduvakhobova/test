@@ -1,0 +1,12 @@
+*{
+/* padding: 0; */
+    margin: 0;
+    box-sizing: border-box;
+}
+li{
+    border-bottom: solid gray 1px;
+    padding: 20px;
+}
+ul{
+    margin-left: 20px;
+}
